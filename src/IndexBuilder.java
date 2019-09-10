@@ -66,9 +66,9 @@ public class IndexBuilder {
 			}
 		}
 		in.close();
-		Runtime.getRuntime().exec("SureMap-IndexBuilder "+firstName+" ./");
+		Runtime.getRuntime().exec("./SureMap-IndexBuilder "+firstName+" ./");
 		if(tooLarge)
-		Runtime.getRuntime().exec("SureMap-IndexBuilder "+secondName+" ./");
+		Runtime.getRuntime().exec("./SureMap-IndexBuilder "+secondName+" ./");
 	}
 
 	private static void printUsage() {
