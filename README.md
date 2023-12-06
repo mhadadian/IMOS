@@ -6,7 +6,7 @@ IMOS is an aligner for mapping noisy long reads to the reference genome. It can 
 ## Citation:
 > Hadadian Nejad Youesfi, Mostafa, et al. "IMOS: improved Meta-aligner and Minimap2 On Spark". BMC Bioinformatics. (2019): <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://doi.org/10.1186/s12859-018-2592-5" target="_blank">link</a></span>.
 
-Contact : [hadadian@ce.sharif.edu](mailto:hadadian@ce.sharif.edu)
+Contact : [m.hadadian@rug.nl](mailto:m.hadadian@rug.nl)
 
 IMOS can be downloaded from <span style="color: #0000ff;"><a style="color: #0000ff;" href="http://ce.sharif.edu/~hadadian/IMOS.html" target="_blank">here</a></span>.
 
